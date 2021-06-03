@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f1c1664-be77-4a8a-b7a9-7b3ecd727893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/scrapy_redis" />
+  </component>
+  <component name="ProjectId" id="1nL854In5qNuIpqege0Fmpb4CMf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\作业\scrapyspider\scrapyspider\spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.day_02">
+    <configuration name="右上侧数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapyspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/data/右上侧数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapyspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapyspider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapyspider/spiders/day12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapyspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapyspider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapyspider/spiders/day_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrapy_redus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapyspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapyspider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapyspider/spiders/scrapy_redus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapyspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapyspider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapyspider/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.day_02" />
+        <item itemvalue="Python.day12" />
+        <item itemvalue="Python.scrapy_redus" />
+        <item itemvalue="Python.右上侧数据" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1c1664-be77-4a8a-b7a9-7b3ecd727893" name="Default Changelist" comment="" />
+      <created>1611157823886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611157823886</updated>
+      <workItem from="1611157832349" duration="1007000" />
+      <workItem from="1611196362399" duration="739000" />
+      <workItem from="1611206302497" duration="8160000" />
+      <workItem from="1611299534507" duration="3288000" />
+      <workItem from="1611373483355" duration="5265000" />
+      <workItem from="1611551684685" duration="7760000" />
+      <workItem from="1611576129904" duration="4488000" />
+      <workItem from="1611715616451" duration="6320000" />
+      <workItem from="1611890589930" duration="13616000" />
+      <workItem from="1612063523889" duration="17819000" />
+      <workItem from="1612232811503" duration="3672000" />
+      <workItem from="1612599997563" duration="9477000" />
+      <workItem from="1612668133268" duration="8891000" />
+      <workItem from="1613306381927" duration="2492000" />
+      <workItem from="1613392820187" duration="2472000" />
+      <workItem from="1613441597961" duration="23511000" />
+      <workItem from="1613916013623" duration="1855000" />
+      <workItem from="1615350648996" duration="8877000" />
+      <workItem from="1615452458988" duration="5326000" />
+      <workItem from="1615463595408" duration="4401000" />
+      <workItem from="1615549444506" duration="613000" />
+      <workItem from="1615602864748" duration="3730000" />
+      <workItem from="1616543791400" duration="19453000" />
+      <workItem from="1616997274998" duration="1503000" />
+      <workItem from="1617020090098" duration="4522000" />
+      <workItem from="1617066560044" duration="4696000" />
+      <workItem from="1617102169054" duration="4666000" />
+      <workItem from="1617365433444" duration="316000" />
+      <workItem from="1617366039112" duration="3573000" />
+      <workItem from="1617522621509" duration="152000" />
+      <workItem from="1617524048581" duration="1232000" />
+      <workItem from="1617534170356" duration="5589000" />
+      <workItem from="1617593999326" duration="8258000" />
+      <workItem from="1617605961330" duration="22290000" />
+      <workItem from="1617632261341" duration="231000" />
+      <workItem from="1617671483770" duration="5547000" />
+      <workItem from="1617766338981" duration="3382000" />
+      <workItem from="1617777162383" duration="5853000" />
+      <workItem from="1618107273098" duration="3631000" />
+      <workItem from="1618127031896" duration="12231000" />
+      <workItem from="1618192516162" duration="5866000" />
+      <workItem from="1618472584563" duration="2932000" />
+      <workItem from="1618557520262" duration="4016000" />
+      <workItem from="1618752722922" duration="1256000" />
+      <workItem from="1618798954393" duration="8621000" />
+      <workItem from="1618816194882" duration="836000" />
+      <workItem from="1618832490505" duration="5760000" />
+      <workItem from="1618990997381" duration="1166000" />
+      <workItem from="1618992770635" duration="35000" />
+      <workItem from="1619163857792" duration="5615000" />
+      <workItem from="1621242978118" duration="3000" />
+      <workItem from="1621242991118" duration="241000" />
+      <workItem from="1621417344437" duration="5555000" />
+      <workItem from="1621423653433" duration="6225000" />
+      <workItem from="1621582788154" duration="3764000" />
+      <workItem from="1622001056735" duration="3491000" />
+      <workItem from="1622702715109" duration="390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618116453194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1618116453194" />
+    <state width="1069" height="466" key="DebuggerActiveHint" timestamp="1617612149730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1069" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1617612149730" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618992804505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618992804505" />
+    <state width="1478" height="236" key="GridCell.Tab.0.bottom" timestamp="1622008831760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622008831760" />
+    <state width="1478" height="236" key="GridCell.Tab.0.center" timestamp="1622008831760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622008831760" />
+    <state width="1478" height="236" key="GridCell.Tab.0.left" timestamp="1622008831759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622008831759" />
+    <state width="1478" height="236" key="GridCell.Tab.0.right" timestamp="1622008831760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622008831760" />
+    <state width="1478" height="236" key="GridCell.Tab.1.bottom" timestamp="1622008831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622008831761" />
+    <state width="1478" height="236" key="GridCell.Tab.1.center" timestamp="1622008831760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622008831760" />
+    <state width="1478" height="236" key="GridCell.Tab.1.left" timestamp="1622008831760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622008831760" />
+    <state width="1478" height="236" key="GridCell.Tab.1.right" timestamp="1622008831760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="236" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622008831760" />
+    <state x="210" y="96" key="SettingsEditor" timestamp="1621423975825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="210" y="96" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621423975825" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1619169182080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1619169182080" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1622702849086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1622702849086" />
+    <state x="314" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1617671830037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1617671830037" />
+    <state x="447" y="11" width="642" height="801" key="find.popup" timestamp="1621421311485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="11" width="642" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1621421311485" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617631452581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617631452581" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/pictures.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/jobble.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/jobble.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/jobble.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/zhizhu.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/zhizhu.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/zhizhu.py</url>
+          <line>213</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/zhizhu.py</url>
+          <line>214</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/crawl_xila.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Users/20509/Anaconda3/envs/tensorflow/Lib/site-packages/selenium/webdriver/chrome/options.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_redis/dupefilter.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/data/右上侧数据.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapyspider/spiders/scrapy_redus.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="response.text" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrapyspider$pictures.coverage" NAME="pictures Coverage Results" MODIFIED="1613465239901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapyspider$sqlservertest.coverage" NAME="sqlservertest Coverage Results" MODIFIED="1612086412457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider" />
+    <SUITE FILE_PATH="coverage/scrapyspider$scrapy_redus.coverage" NAME="scrapy_redus Coverage Results" MODIFIED="1621429334433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapyspider$zhizhu.coverage" NAME="zhizhu Coverage Results" MODIFIED="1618194748892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapyspider$.coverage" NAME="右上侧数据 Coverage Results" MODIFIED="1618837306076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/data" />
+    <SUITE FILE_PATH="coverage/scrapyspider$main.coverage" NAME="main Coverage Results" MODIFIED="1618196146782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider" />
+    <SUITE FILE_PATH="coverage/scrapyspider$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1617629438048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapyspider$jobble.coverage" NAME="jobble Coverage Results" MODIFIED="1611727922111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapyspider$crawl_xila.coverage" NAME="crawl_xila Coverage Results" MODIFIED="1618142941884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/scrapyspider$items.coverage" NAME="items Coverage Results" MODIFIED="1611727866399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider" />
+    <SUITE FILE_PATH="coverage/scrapyspider$test.coverage" NAME="test Coverage Results" MODIFIED="1618196536215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapyspider$day12.coverage" NAME="day12 Coverage Results" MODIFIED="1621586531838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapyspider$day_02.coverage" NAME="day_02 Coverage Results" MODIFIED="1622006581195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+  </component>
+</project>
